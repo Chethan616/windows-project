@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>216094997878-0n53ogl2mcu32cr287dipnlns8enfjdv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.216094997878-0n53ogl2mcu32cr287dipnlns8enfjdv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD_V5-G7_r5Vc_eEEEoi5bCRVFvfsfY6E4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>216094997878</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.wizardOs</string>
+	<key>PROJECT_ID</key>
+	<string>wizard-wizard-wizard</string>
+	<key>STORAGE_BUCKET</key>
+	<string>wizard-wizard-wizard.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:216094997878:ios:ec8f13eb564060908f0e57</string>
+</dict>
+</plist>
